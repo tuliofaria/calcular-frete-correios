@@ -1,0 +1,22 @@
+{
+  "name": "next-calc-frete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.8.0",
+    "fast-xml-parser": "^3.17.4",
+    "next": "^9.4.4",
+    "postcss-import": "^12.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "tailwindcss": "^1.4.6",
+    "xml2json": "^0.12.0"
+  }
+}
